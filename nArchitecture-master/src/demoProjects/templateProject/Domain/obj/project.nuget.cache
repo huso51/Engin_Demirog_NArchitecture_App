@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "NxH0Xyez5JVuHC7YFTakaJP43imBco/xaqPQaZPrHJBkH5F7GluyqcrjpieQdOwAFKV3yZaSR0orMs3ylGwCYQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\husey\\Desktop\\Eğitim\\nArchitecture-master\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.EntityFrameworkCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "System.Linq.Dynamic.Core"
+    }
+  ]
+}
